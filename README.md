@@ -1,6 +1,6 @@
-# Hey, what's up! Welcome to my Github profile. :v:
-
-## My name is João, but I like to use the nickname Jcntck on the internet.
+# Hey, what's up!
+**Welcome to my Github profile. :v:**<br>
+My name is João, but I like to use the nickname Jcntck on the internet.
 
 - :computer: At the moment I work as Back-end Developer in a brazilian company called Semantix, there I do integrations using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" /> **Node.js**.
   These integrations can be APIs Gateways or triggered automations.
