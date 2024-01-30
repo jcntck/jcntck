@@ -4,7 +4,7 @@ My name is João, but I like to use the nickname Jcntck on the internet.
 
 - :computer: At the moment I work as Back-end Developer in a brazilian company called Semantix, there I do integrations using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" /> **Node.js**.
   These integrations can be APIs Gateways or triggered automations.
-- :mortar_board: Currently I'm studying about AWS, Docker, Kubernetes and Rancher to improve my DevOps skills.
+- :mortar_board: Currently my goal is improve my knowledge of a software application's ecosystem, with technologies as Docker, Microservices, Cloud Computing and more.
 - :video_game: In my free time, for sure, I will be playing or watching someone play, this is my favorite hobby by far.
 
 
@@ -33,7 +33,6 @@ My name is João, but I like to use the nickname Jcntck on the internet.
 ## What I'm Learning
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" />
 </p>
 
